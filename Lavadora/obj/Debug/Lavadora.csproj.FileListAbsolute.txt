@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\.NET\Lavadora\Lavadora\obj\Debug\Lavadora.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\.NET\Lavadora\Lavadora\obj\Debug\Lavadora.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\.NET\Lavadora\Lavadora\bin\Debug\Lavadora.exe.config
+C:\Users\user\Desktop\.NET\Lavadora\Lavadora\bin\Debug\Lavadora.exe
+C:\Users\user\Desktop\.NET\Lavadora\Lavadora\bin\Debug\Lavadora.pdb
+C:\Users\user\Desktop\.NET\Lavadora\Lavadora\obj\Debug\Lavadora.exe
+C:\Users\user\Desktop\.NET\Lavadora\Lavadora\obj\Debug\Lavadora.pdb
